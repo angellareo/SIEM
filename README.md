@@ -6,7 +6,7 @@ These resources are intended to guide a SIEM team to...
 
 # Preparation, Prerequisites, etc.
 Without covering the basics, there isn't much point in having a SIEM. Harden your environment and configure appropriate auditing on all endpoints.
-- [Preparation](/Preparation.md)
+- [Preparation](/Documentation-Templates/Incident-Response-Policy.md#preparation)
 - [Incident Response Policy Sample](/Documentation-Templates/Incident-Response-Policy.md)
 - [RSS Feeds, Subscriptions, etc](/osintel.md)
 - [Logging](/Logging.md)
